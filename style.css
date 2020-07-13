@@ -1,0 +1,23 @@
+html,body{
+    margin:0;
+    padding:0;
+}
+
+.chat-container{
+    width:500px;
+    margin:0 auto;
+}
+
+.input-chat{
+    width:60%;
+}
+
+.chat-line{
+    display:flex;
+    justify-content:space-between;
+    margin-top:25px;
+}
+
+.chat-line label{
+    margin-right:50px;
+}
